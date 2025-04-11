@@ -1,0 +1,5 @@
+add_executable(hello_dhbw hello.cpp)
+add_executable(print_square print_square.cpp)
+add_executable(print_empty_square print_empty_square.cpp)
+add_executable(variables variables.cpp)
+add_executable(vectors vectors.cpp)
